@@ -1,0 +1,2 @@
+# serendipity
+Document diversity research
